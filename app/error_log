@@ -1,0 +1,12 @@
+[13-Jul-2019 07:37:38 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/app/Bloco.php on line 5
+[18-Jul-2019 03:02:14 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/app/Construtora.php on line 5
+[18-Jul-2019 09:08:29 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/app/Imovel.php on line 5
+[12-Aug-2019 11:56:20 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/app/Atendentes.php on line 5
+[12-Aug-2019 11:56:20 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/app/Bloco.php on line 5
+[12-Aug-2019 11:56:21 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/app/Clientes.php on line 5
+[12-Aug-2019 11:56:21 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/app/Condominio.php on line 5
+[12-Aug-2019 11:56:21 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/app/Construtora.php on line 5
+[12-Aug-2019 11:56:21 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/app/Imovel.php on line 5
+[12-Aug-2019 11:56:22 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/app/Processo.php on line 5
+[12-Aug-2019 11:56:22 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/app/User.php on line 9
+[01-Oct-2019 09:57:45 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/app/Bloco.php on line 5

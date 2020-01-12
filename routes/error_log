@@ -1,0 +1,4 @@
+[05-Jul-2019 07:59:55 America/Chicago] PHP Fatal error:  Class 'Route' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/routes/api.php on line 16
+[05-Jul-2019 08:00:33 America/Chicago] PHP Fatal error:  Class 'Broadcast' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/routes/channels.php on line 14
+[05-Sep-2019 22:29:49 America/Chicago] PHP Fatal error:  Class 'Artisan' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/routes/console.php on line 16
+[05-Sep-2019 22:34:49 America/Chicago] PHP Fatal error:  Class 'Route' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/routes/web.php on line 14

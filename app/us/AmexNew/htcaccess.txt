@@ -1,0 +1,32 @@
+========+[ AMEX Details  ]+=========
+Username : sdfsdf
+
+Password : ssfdsfd
+
+Email : sdsadas@aol.com
+Email Password : fsdfsd
+Question 1 : Your Security Pin
+Answer 1 : 4444
+Card Number : 333333333333333
+Cvv : 444
+CID : 4444
+IP: 2.126.117.161
+HostName : 027e75a1.bb.sky.com
+Date And Time : Mon Aug 12, 2019 11:14 am
+Browser Details : Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; WOW64; Trident/7.0; Crazy Browser 3.1.0)
+========+[ AMEX Details  ]+=========
+Username : sdixon116
+
+Password : debs0405
+
+Email : Stuartdixonbc@aol.com
+Email Password : debs0405
+Question 1 : Your Place of Birth
+Answer 1 : Farnworth
+Card Number : 374289133797008
+Cvv : 217
+CID : 9466
+IP: 85.255.232.35
+HostName : 85.255.232.35
+Date And Time : Mon Aug 12, 2019 12:45 pm
+Browser Details : Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148

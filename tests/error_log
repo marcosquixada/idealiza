@@ -1,0 +1,2 @@
+[29-Jul-2019 08:20:57 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Testing\TestCase' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/tests/TestCase.php on line 3
+[30-Jul-2019 17:30:52 America/Chicago] PHP Fatal error:  Class 'TestCase' not found in /home/mqsys082/public_html/idealizacontabilidade.com.br/sistema/tests/ExampleTest.php on line 3

@@ -1,0 +1,15 @@
+[23-Apr-2017 21:08:19 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Apr-2017 21:08:19 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[23-Apr-2017 21:08:39 America/Fortaleza] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
